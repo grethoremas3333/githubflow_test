@@ -1,2 +1,4 @@
 ligne1 \n ligne2
 ligne1 /n ligne2
+ligne3 \n ligne4
+ligne3 /n ligne4
